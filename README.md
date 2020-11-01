@@ -1,65 +1,38 @@
-# readmegen README
+# Readme Template Generator for VS Code
 
-This is the README for your extension "readmegen". After writing up a brief description, we recommend including the following sections.
+A VS code extension to generate a default editable template and generate instant preview in the editor.
 
-## Features
+## Getting Started
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+## Preview
 
-For example if there is an image subfolder under your extension project workspace:
+![](vs.gif)
 
-\!\[feature X\]\(images/feature-x.png\)
+### Dependencies
+* VS Code
+* Node.js and npm
+* Typescript
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+### Installing
+* Install node_modules
+```
+npm run install
+```
+### Executing program
+* Generate VS Code debugging launch.json file refer https://code.visualstudio.com/docs/nodejs/nodejs-debugging
 
-## Requirements
-
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
------------------------------------------------------------------------------------------------------------
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Help
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
+## Authors
+Contributors names and contact info
+ex. Dominique Pizzie  
+ex. [@DomPizzie](https://twitter.com/dompizzie)
+## Version History
+* 0.2
+* Various bug fixes and optimizations
+* See [commit change]() or See [release history]()
+* 0.1
+* Initial Release
