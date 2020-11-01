@@ -21,18 +21,9 @@ npm run install
 ### Executing program
 * Generate VS Code debugging launch.json file refer https://code.visualstudio.com/docs/nodejs/nodejs-debugging
 
-## Help
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-## Authors
-Contributors names and contact info
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+### Demo the published extension here
+* https://marketplace.visualstudio.com/items?itemName=MohitSharma.readmegen
+
 ## Version History
-* 0.2
-* Various bug fixes and optimizations
-* See [commit change]() or See [release history]()
-* 0.1
-* Initial Release
+* 0.0.1
+* Project setup
